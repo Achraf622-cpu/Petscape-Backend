@@ -1,0 +1,5 @@
+
+# Auto-Generated Exclusions for Timeline Forgery
+.env
+push_petscape_backdated.ps1
+init.marker
