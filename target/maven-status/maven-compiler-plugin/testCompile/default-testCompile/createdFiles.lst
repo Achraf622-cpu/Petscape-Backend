@@ -1,0 +1,7 @@
+com\petscape\controller\AnimalControllerTest.class
+com\petscape\service\AuthServiceImplTest.class
+com\petscape\config\SecurityTestConfig.class
+com\petscape\service\AnimalServiceImplTest.class
+com\petscape\service\AdoptionRequestServiceImplTest.class
+com\petscape\controller\AuthControllerTest.class
+com\petscape\service\AppointmentServiceImplTest.class
